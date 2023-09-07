@@ -1,9 +1,6 @@
 #include <unistd.h>
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 8d9436bd51a38d49802394cabe906020be308aef
 /**
  * _putchar - writes the character c to stdout
  * @c: The character to print
